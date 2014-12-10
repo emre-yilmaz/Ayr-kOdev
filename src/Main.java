@@ -21,8 +21,8 @@ public class Main {
 	Canvas canvas = new Canvas();
 	JLabel label = new JLabel("1");
 	JLabel label_1 = new JLabel("2");
-	JLabel label_2 = new JLabel("3");
-	JLabel label_3 = new JLabel("4");
+	JLabel label_2 = new JLabel("10");
+	JLabel label_3 = new JLabel("87");
 	/**
 	 * Launch the application.
 	 */
